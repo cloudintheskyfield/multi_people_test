@@ -1,1 +1,1 @@
-alipay
+alipay + weixin + yinlian(ws)
